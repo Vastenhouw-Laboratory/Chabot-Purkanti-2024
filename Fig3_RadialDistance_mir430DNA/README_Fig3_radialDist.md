@@ -1,6 +1,6 @@
 # Overview
 
-- The Figure 5a displays the coefficient of the radial distances of the mir430 DNA shapes for the whole dataset at 1k-cell stage. 
+- Figure 3a displays the coefficient of the radial distances of the mir430 DNA shapes for the whole dataset at 1k-cell stage. 
 Briefly, the mir430 DNA signal was segmented in 3D using Imaris and the pixels contained in the segmented DNA mask were isolated.
 Using this mask, distances between the center of the gravity and the center of edge pixels was retrieved and plotted centered on transcription initiation.
 - Script developed by Damian Dalle Nogare at the Human Technopole BioImage Analysis Infrastructure Unit, National Facility for Data Handling and Analysis. Licensed under the BSD-3 license.
